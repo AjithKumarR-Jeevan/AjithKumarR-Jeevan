@@ -9,15 +9,17 @@ Completed creating automation framework for Jeevan Technologies India Pvt. Ltd. 
 4. ExtensionTax.com (Form 4868, 2350, 7004, 8868)
 5. TaxGarden.com (Form 4868, 2350, 7004, 8868)
 
-Additional Skills by Self Learning: 
+Additional Skills by Self Learning but not mastered/evaluated: 
 1. Performance testing using Jmeter
 2. Penetration testing using OwaspZap and BurpSuite
 3. API testing using PostMan
 4. DB testing using SQL
 
-One of the long term goal is to master open-souce tool used for testing and implement in company to provide **100% Quality in 0% Investment**.
+One of the long term goal is to master most of the open-souce tool used for testing and implement in company to provide **100% Quality in 0% Investment**.
 
 In addition, Worked as an Internal Auditor for Jeevan Technologies India Pvt. Ltd. to get ISO 27001 certified.
+
+Reach me ajithkumar20101994@gmail.com 
 
 <!---
 AjithKumarR-Jeevan/AjithKumarR-Jeevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
