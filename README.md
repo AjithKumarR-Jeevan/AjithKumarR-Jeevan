@@ -19,7 +19,7 @@ One of the long term goal is to master most of the open-souce tool used for test
 
 In addition, Worked as an Internal Auditor for Jeevan Technologies India Pvt. Ltd. to get ISO 27001 certified.
 
-Reach me ajithkumar20101994@gmail.com 
+Reach me @ ajithkumar20101994@gmail.com 
 
 <!---
 AjithKumarR-Jeevan/AjithKumarR-Jeevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
